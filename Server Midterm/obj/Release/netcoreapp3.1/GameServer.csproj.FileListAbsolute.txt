@@ -1,0 +1,22 @@
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfo.cs
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.exe
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.deps.json
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.json
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.dll
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.pdb
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.dll
+E:\Jamie\University\Year 2\Term 2\CGM499\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.pdb
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.exe
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.deps.json
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.json
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.dll
+C:\Users\User\Desktop\Number Guessing Game\GameServer\bin\Release\netcoreapp3.1\GameServer.pdb
+C:\Users\User\Desktop\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.AssemblyInfo.cs
+C:\Users\User\Desktop\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.dll
+C:\Users\User\Desktop\Number Guessing Game\GameServer\obj\Release\netcoreapp3.1\GameServer.pdb
